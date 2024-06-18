@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    color: slategray;
+    background: linear-gradient(slateblue, lightblue);
+    font-family:Verdana, sans-serif;
+    background-image: url(Screenshot\ 2024-06-18\ 151134.png);
+}
+h4 {
+    color: greenyellow;
+    padding: 0 2px 0 2px;
+
+}
+h1 {
+    color: lightskyblue;
+}
+a:hover {
+    background-color: black;
+    color: white;
+}
